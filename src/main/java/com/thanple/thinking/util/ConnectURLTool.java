@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /*
  * 连接网络URL工具
- * 
+ * test2
  * 1.格式:构造函数->writeString()->getScannerString();
  * 2.中间可以修改URLConnection
  * 3.默认网站编码"utf-8"，可以通过函数更改
